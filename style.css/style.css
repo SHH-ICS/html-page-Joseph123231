@@ -5,3 +5,7 @@ p   {
     font-size: larger;
     color: lime;
 }
+
+#my-header {
+    background-color: blue;
+}
